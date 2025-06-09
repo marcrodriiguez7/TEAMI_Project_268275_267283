@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project implements a multivariate time series forecasting model using Long Short-Term Memory (LSTM) networks in PyTorch.  
-The focus is on daily weather prediction for Madrid (1997-2015), leveraging temporal dependencies and multiple input features including categorical time variables.
+The focus is on daily weather prediction for Madrid (1997-2015), leveraging temporal dependencies and multiple input features.
 
 ---
 
