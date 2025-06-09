@@ -62,7 +62,7 @@ pip install torch numpy pandas matplotlib scikit-learn
 
 * GPU acceleration is recommended for faster training, especially on longer sequences or larger batch sizes.
 * Random seeds are set in the notebook to ensure reproducibility.
-* Hyperparameters such as learning rate, batch size, and sequence length can be adjusted in the notebook.
+* Hyperparameters such as learning rate, , loss function, num layers, hidden size and others can be adjusted in the notebook.
 
 ---
 
